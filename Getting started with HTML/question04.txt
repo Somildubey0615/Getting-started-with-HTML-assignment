@@ -1,0 +1,7 @@
+tag : The question is common that why do we need tags whereas we can write things directly in html file because we have seen that html is forgiving language it does not shows any error. But tags are used by a reason they gives structure to our code and webpageas well every single tag plays a different role here. lets understand it by example. we have many tags and we use them according to our requirment.for heading we have tags like(h1,h2,h3,h4,h5,h6) for line break (br) tag an so on.
+
+Every tag has its closing tag but some tags are self closed here like br tag, img tag, hr tag etc.
+     
+     element: Html elements are the combination of openning tag,closing tag and content between them lets understand them by example.   
+
+     html element= openning tag + content + closing tag

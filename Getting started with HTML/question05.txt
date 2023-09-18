@@ -1,0 +1,5 @@
+  DOCTYPE Declaration in Html :
+  <!DOCTYPE html> : Doctype Declaration stands for Declaring the Document type of HTML it shows the type and version of html.it helps  web browser to render the content. the Declaration shows that we are using the lattest version of htlm, HTML5 
+
+
+

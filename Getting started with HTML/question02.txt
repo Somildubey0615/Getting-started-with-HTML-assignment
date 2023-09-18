@@ -1,0 +1,15 @@
+Commenting of element is the most useful feature of Html. After commenting to a element it does not display on webpage. but usually we don't say it like that. In technical term we says that the element which we commented does not render on browser.after commenting to the element code does not goes anywhere. it just does not render on browser we can keep it and see it in source code. so we can say commenting element heps us to stop rendering to perticular element which has we commented. For commenting a element select element by curser and just hit ctrl+/(forwars slash).
+
+let's see a example of comment in html 
+   <!-- <p>this text will not render on browser because we commented it out.</p> -->
+                                                                 
+There are two ways of Commenting element : 
+
+(a)single line comment
+example :  <!-- Everything is written here will we comment -->
+
+(b)multi line comment 
+example :  <!-- we can select multiple line and make them comment out with easy step by just typing ctrl+/ the content which is written here not will be render on browser its just for keeping things to remembering or keeping them as nots. -->
+
+
+    
